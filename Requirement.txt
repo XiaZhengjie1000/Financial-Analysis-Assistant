@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+numpy
+
+pip install streamlit pandas matplotlib numpy
